@@ -1,0 +1,13 @@
+  .position-relative {
+    position: relative;
+  }
+  
+  .overlay-text {
+    color: rgb(9, 146, 4); /* Cor do texto */
+    padding-top: 120px;
+  }
+  
+  .row {
+    padding-top: 30px;
+  }
+    
